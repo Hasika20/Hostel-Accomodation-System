@@ -1,1 +1,0 @@
-A Basic Student Accomodation System using Html, Css, JavaScript, NodeJS, Postgres
